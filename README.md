@@ -47,4 +47,4 @@ For any inquiries or support, reach out to me:
 🔗 LinkedIn: linkedin.com/in/kaanbalci
 📧 Email: kaanb8776@gmail.com
 
-💡 A powerful and efficient Control Panel designed for seamless management and monitoring! 🚀
+💡 A thrilling and dynamic physics-based game designed for ultimate tower destruction and strategic shooting! 🚀
