@@ -1,50 +1,77 @@
-🏀 Dunker Madness
-Dunker Madness is a 2D physics-based mobile game where players launch projectiles to knock down towers. Developed in Unity, this game introduces precise aiming mechanics, destructible environments, and strategic shooting. Designed for Android and iOS, Dunker Madness is optimized for all mobile screen sizes using Cinemachine Dynamic Zoom.
+# 🏀 Dunker Madness - My First Unity Mobile Game  
 
-🎮 Game Overview
-Engine: Unity (Mobile 2D)
-Genre: Physics-Based Tower Destruction
-Development: Solo Project by Kaan Balcı
-Core Mechanics: Projectile Aiming, Physics-Based Destruction
-Objective: Strategically aim and shoot to bring down enemy towers.
-Current Content: One playable demo featuring destructible structures and dynamic gameplay.
-🛠 Features
-✅ Physics-Based Projectile System – Realistic interactions and destruction.
-✅ Cinemachine Dynamic Zoom – Ensures seamless camera scaling for all devices.
-✅ Mobile-Friendly UI & Controls – Optimized for touch input.
-✅ Smooth Performance on Android & iOS – Tested and successfully running.
-✅ Modular Level Design – New challenges can be easily added.
+## 🎮 About the Project  
 
-🔍 Gameplay Mechanics
-Aim & Shoot: Drag to adjust trajectory and launch the ball.
-Destroy Towers: Hit weak points to collapse structures efficiently.
-Physics-Based Collisions: Objects react dynamically to impacts.
-Level Progression: Increasing difficulty with each new stage.
-Cinemachine for Dynamic Zoom: Automatically adjusts the camera to fit all screen sizes.
-💡 Technologies & Concepts Used
-Unity 2D Physics System – For realistic projectile motion.
-Cinemachine Dynamic Zoom – Ensures all mobile screen sizes are supported.
-Android & iOS Compatibility – Game builds and runs smoothly on both platforms.
-Agile Development Methodology – Iterative updates and continuous improvement.
-Optimization for Mobile Performance – Lightweight assets and efficient rendering.
-📥 Installation & How to Play
-1️⃣ Clone the repository:
-git clone https://github.com/yourusername/Dunker-Madness.git
-2️⃣ Open the project in Unity.
-3️⃣ Build and install the game on Android or iOS.
-4️⃣ Aim, shoot, and start breaking towers! 🎯
+**Dunker Madness** is my **first 2D mobile game project**, developed to explore Unity's **mobile physics and gameplay mechanics**. The game is built around a **tower destruction concept**, where players aim and shoot projectiles to knock down enemy structures.  
 
-🚀 Future Roadmap
-🔹 New Levels & Game Modes – More structures and challenges.
-🔹 Power-Ups & Special Abilities – Unique boosts for different shots.
-🔹 Visual & Sound Enhancements – Improved effects and UI polish.
-🔹 Leaderboards & Scoring System – Compete for the best scores!
+This project also helped me learn **Unity's mobile optimization techniques**, including **Cinemachine Dynamic Zoom**, to ensure smooth gameplay across all screen sizes. The game is fully functional on **Android and iOS**, with an initial successful test on Android.  
 
-📩 Contact
-For any inquiries or support, reach out to me:
+---
 
-🌍 Website: kaan-balci.com
-🔗 LinkedIn: linkedin.com/in/kaanbalci
-📧 Email: kaanb8776@gmail.com
+## 🛠️ Features  
 
-💡 A thrilling and dynamic physics-based game designed for ultimate tower destruction and strategic shooting! 🚀
+- **Physics-Based Projectile System** – Realistic interactions and destruction.  
+- **Cinemachine Dynamic Zoom** – Ensures seamless camera scaling across devices.  
+- **Mobile-Friendly UI & Controls** – Optimized for **touch input**.  
+- **Smooth Performance on Android & iOS** – Successfully tested on Android.  
+- **Modular Level Design** – New levels and mechanics can be easily integrated.  
+
+---
+
+## 🎮 How to Play  
+
+1. Drag and aim to adjust the **projectile trajectory**.  
+2. Release to **shoot** and try to **knock down the enemy tower**.  
+3. Use physics-based strategy to complete levels efficiently.  
+4. Progress through increasingly **challenging levels**!  
+
+---
+
+## 🚀 Getting Started  
+
+To run this project on your local machine:  
+
+1. **Clone the repository**  
+   git clone https://github.com/your-username/Dunker-Madness.git  
+2. Open **Unity Hub**, select **Open Project**, and navigate to the cloned directory.  
+3. Open the **main scene** and play the game in Unity.  
+4. Build the game for **Android or iOS** to test on mobile devices.  
+
+---
+
+## 📷 Screenshots  
+
+_(Add images showcasing gameplay here.)_  
+
+---
+
+## 📌 Future Improvements  
+
+- Adding **new levels** with different structures.  
+- Introducing **power-ups and special abilities**.  
+- Enhancing **UI elements and visual effects**.  
+- Implementing a **scoring system and leaderboards**.  
+
+---
+
+## 🔗 Play the Game  
+
+Currently, the game is in development. A public release will be available soon! 🚀  
+
+---
+
+## 📜 License  
+
+This project is open for contributions. Feel free to **fork, modify, and improve**!  
+
+---
+
+## 📩 Contact  
+
+For any inquiries or support, reach out to me:  
+
+🌍 **Website:** [kaan-balci.com](https://kaan-balci.com)  
+🔗 **LinkedIn:** [linkedin.com/in/kaanbalci](https://linkedin.com/in/kaanbalci)  
+📧 **Email:** kaanb8776@gmail.com
+
+💡 **A thrilling and dynamic physics-based game designed for ultimate tower destruction and strategic shooting! 🚀**
