@@ -41,7 +41,8 @@ To run this project on your local machine:
 
 ## 📷 Screenshots  
 
-_(Add images showcasing gameplay here.)_  
+![Ekran görüntüsü 2025-02-25 202336](https://github.com/user-attachments/assets/170c0673-c9ca-49f2-81f6-fca4963e099f)
+
 
 ---
 
